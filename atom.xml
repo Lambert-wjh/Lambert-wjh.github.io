@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-24T08:37:31.854Z</updated>
+  <updated>2020-07-24T08:42:30.966Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2020/07/24/hello-world/"/>
     <id>http://yoursite.com/2020/07/24/hello-world/</id>
-    <published>2020-07-24T08:37:31.854Z</published>
-    <updated>2020-07-24T08:37:31.854Z</updated>
+    <published>2020-07-24T08:42:30.966Z</published>
+    <updated>2020-07-24T08:42:30.966Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to my web! This is your very first post. If you have any questions, you can ask me on <a href="https://Lambert-wjh.github.io" target="_blank" rel="noopener">my-GitHub</a>.</p>]]></content>
+    <content type="html"><![CDATA[<p>Welcome to my web! This is your very first post. If you have any questions, you can ask me on <a href="https://Lambert-wjh.github.io" target="_blank" rel="noopener">my-GitHub</a>.<br>My name is Lambert.I come from Inner Mongolia,which is a beautiful place.I hope you can come here and enjoy the enthusiasm of the grassland people!</p>]]></content>
     
     <summary type="html">
     
